@@ -125,6 +125,7 @@ a {
   .app {
     padding-bottom: 350px;
     background-size: 300px;
+    background: url("../img/cover-image.jpg") no-repeat bottom center / 300px;
   }
   .button {
     margin-bottom: 10px;
